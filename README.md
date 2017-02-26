@@ -1,0 +1,2 @@
+# scriptsbank
+all about scripts
